@@ -5,7 +5,7 @@ A Node.js module to monitor network bandwidth usage. It works on Windows, MacOS,
 ## Installation
 
 ```bash
-npm install network-bandwidth-monitor
+npm install node-network-bandwidth-monitor
 ```
 
 ## Usage
