@@ -1,4 +1,4 @@
-const NetworkBandwidthMonitor = require("index");
+const NetworkBandwidthMonitor = require("./index");
 
 const monitor = new NetworkBandwidthMonitor();
 monitor.registerCallback((data) => {
