@@ -11,7 +11,7 @@ npm install node-network-bandwidth-monitor
 ## Usage
 
 ```javascript
-const NetworkBandwidthMonitor = require("network-bandwidth-monitor");
+const NetworkBandwidthMonitor = require("node-network-bandwidth-monitor");
 
 const monitor = new NetworkBandwidthMonitor();
 monitor.registerCallback((data) => {
