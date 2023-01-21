@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kelvinzer0/network-bandwith-monitor.git"
+        "url": "git+https://github.com/kelvinzer0/network-bandwidth-monitor.git"
     },
     "keywords": [
         "network",
@@ -19,9 +19,9 @@
     "author": "Kelvin Yuli Andrian",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/kelvinzer0/network-bandwith-monitor/issues"
+        "url": "https://github.com/kelvinzer0/network-bandwidth-monitor/issues"
     },
-    "homepage": "https://github.com/kelvinzer0/network-bandwith-monitor#readme",
+    "homepage": "https://github.com/kelvinzer0/network-bandwidth-monitor#readme",
     "dependencies": {
         "child_process": "^1.0.2",
         "mocha": "^10.2.0",
