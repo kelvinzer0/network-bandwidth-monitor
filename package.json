@@ -1,5 +1,5 @@
 {
-    "name": "network-bandwith-monitor",
+    "name": "network-bandwidth-monitor",
     "version": "1.0.0",
     "description": "A simple and easy-to-use Node.js module that allows you to monitor your network bandwith usage in real-time. It supports multiple platforms including Linux, Windows, and macOS.",
     "main": "index.js",
